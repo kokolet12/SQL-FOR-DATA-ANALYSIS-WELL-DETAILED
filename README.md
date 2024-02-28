@@ -1,4 +1,5 @@
 # Employee Info and Superstore Analysis using SQL
+![sql intro pic.jpeg](https://github.com/kokolet12/SQL-FOR-DATA-ANALYSIS-WELL-DETAILED/blob/main/sql%20intro%20pic.jpeg)
 ## Introduction
 This data has a set of projects and exercises that showcases my skills as a Data Analyst, who is comfy in data analysis using MY SQL
 ## Problem Statement
@@ -6,7 +7,7 @@ This data has a set of projects and exercises that showcases my skills as a Data
 - Update the name and age of employees.
 - Include the previous salary of employees as a new column.
 - Add another column named "department code."
-- Filter the data to include only employees with a salary greater than $1500
+- Filter the data to include only employees with a salary greater than $15000
 - And other problem solving statement.
 ## Data sourcing
 Not until after stating these questions, before I went ahead to search for a file that suits it. The file contains Employee info, Employyes salary and superstore data.
@@ -14,8 +15,10 @@ Not until after stating these questions, before I went ahead to search for a fil
 *The following queries were gotten with these codes to get a better understanding of this project.*
 -	Return Staff ID, Yearly Increment and salary
 ![1(2)QRY RTN STFID, YTL INCR, SAL.png](https://github.com/kokolet12/SQL-FOR-DATA-ANALYSIS-WELL-DETAILED/blob/main/1(2)QRY%20RTN%20STFID%2C%20YTL%20INCR%2C%20SAL.png)
+
 -	Return Age and name of employee info
 ![1(3)QRY RTN AGE N NAME EMP INFO.png](https://github.com/kokolet12/SQL-FOR-DATA-ANALYSIS-WELL-DETAILED/blob/main/1(3)QRY%20RTN%20AGE%20N%20NAME%20EMP%20INFO.png)
+
 - Return Age and Name Employee ID
 ![1(4)QRY RTN AGE N NAME EMP ID.png](https://github.com/kokolet12/SQL-FOR-DATA-ANALYSIS-WELL-DETAILED/blob/main/1(4)QRY%20RTN%20AGE%20N%20NAME%20EMP%20ID.png)
 - RETURN STAFF ID AND SALARY
